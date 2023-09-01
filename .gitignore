@@ -25,3 +25,6 @@ dist-ssr
 
 #env
 .env
+
+#demo
+AI_Summarizer_Explained.mp4
