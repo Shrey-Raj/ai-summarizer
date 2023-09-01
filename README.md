@@ -6,6 +6,9 @@ Welcome to Sumz AI Article Summarizer, a web application that provides quick and
 
 You can try out the live demo of the application [here](https://ai-summarizer-shrey.netlify.app/)
 
+## Snapshot
+![Screenshot (121)](https://github.com/Shrey-Raj/ai-summarizer/assets/119098647/f7a5896c-30e8-4de5-9cf3-9fcaf07860bd)
+
 ## Features
 - **Quick Summaries**: Paste the link to an article or website into the input field, hit enter, and get a summarized version of the content.
 
